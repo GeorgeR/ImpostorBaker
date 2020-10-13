@@ -1,3 +1,0 @@
-D:\Unreal Projects\LyonsSt\Source\Plugins\ImpostorBaker\Intermediate\Build\Win64\UE4Editor\Development\ImpostorBakerEditor\Definitions.ImpostorBakerEditor.h
-d:\unreal projects\lyonsst\source\plugins\impostorbaker\source\impostorbakereditor\private\ImpostorBakerEditorModule.h
-D:\Unreal Projects\LyonsSt\Source\Plugins\ImpostorBaker\Source\ImpostorBakerEditor\Public\IImpostorBakerEditorModuleInterface.h
